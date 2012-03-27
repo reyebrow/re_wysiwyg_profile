@@ -75,7 +75,7 @@ function re_wysiwyg_profile_wysiwyg_default_profiles() {
       'paste_auto_cleanup_on_paste' => 1,
       'block_formats' => 'p,address,pre,h2,h3,h4,h5,h6,div',
       'css_setting' => 'self',
-      'css_path' => '%t/css/editor',
+      'css_path' => '/profiles/datapublic/themes/datapublic_theme/editor.css',
       'css_classes' => '',
     ),
     'rdf_mapping' => array(),
